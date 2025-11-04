@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assessment\\Examportal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|D:\\Assessment\\Examportal\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|D:\\Assessment\\Examportal\\models\\actiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:models\\actiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|d:\\assessment\\examportal\\models\\newformdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:models\\newformdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|D:\\Assessment\\Examportal\\models\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:models\\formdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|D:\\Assessment\\Examportal\\models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:models\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|D:\\Assessment\\Examportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15D33424-E50A-4614-AE7A-6368FF74EBDE}|Examportal.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewFormDetails.cs",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Models\\NewFormDetails.cs",
+              "RelativeDocumentMoniker": "Models\\NewFormDetails.cs",
+              "ToolTip": "D:\\Assessment\\Examportal\\Models\\NewFormDetails.cs",
+              "RelativeToolTip": "Models\\NewFormDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:57:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Models\\Credentials.cs",
+              "RelativeDocumentMoniker": "Models\\Credentials.cs",
+              "ToolTip": "D:\\Assessment\\Examportal\\Models\\Credentials.cs",
+              "RelativeToolTip": "Models\\Credentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:14:25.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDetails.cs",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Models\\FormDetails.cs",
+              "RelativeDocumentMoniker": "Models\\FormDetails.cs",
+              "ToolTip": "D:\\Assessment\\Examportal\\Models\\FormDetails.cs",
+              "RelativeToolTip": "Models\\FormDetails.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:14:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
+              "ToolTip": "D:\\Assessment\\Examportal\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Controllers\\ExamController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:08:54.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionDbContext.cs",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Models\\ActionDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ActionDbContext.cs",
+              "ToolTip": "D:\\Assessment\\Examportal\\Models\\ActionDbContext.cs",
+              "RelativeToolTip": "Models\\ActionDbContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0kAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:08:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Assessment\\Examportal\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Assessment\\Examportal\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-01T18:04:09.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
